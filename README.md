@@ -2,4 +2,6 @@
 Today is Wednesday!
 Today is a wonderful day!
 
-5555
+<<<<<<< HEAD
+=======
+>>>>>>> master
