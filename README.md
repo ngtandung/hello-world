@@ -7,3 +7,4 @@ Today is a wonderful day!
 My new line.
 
 Happy birthday
+Have a good day
